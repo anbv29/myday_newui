@@ -1,0 +1,6 @@
+{
+  "name": "MYDAY - 3D Calendar Memorial Platform",
+  "description": "Immortalize dates that changed your life on the permanent 3D calendar memorial ledger. Outbid, celebrate, and showcase your milestones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
